@@ -1,0 +1,21 @@
+# configuration for https://ohi-science.nceas.ucsb.edu/ohibc
+study_area:       British Columbia
+git_owner:        OHI-Science
+git_repo:         ohibc
+git_slug:         OHI-Science/ohibc
+git_url:          https://github.com/OHI-Science/ohibc
+app_url:          http://ohi-science.nceas.ucsb.edu/ohibc
+default_branch:   published
+default_scenario: region2016
+debug:            False
+last_updated:     2015-10-14
+ohicore_app:
+  git_owner: ohi-science
+  git_repo: ohicore
+  git_branch: dev
+  git_commit: 951a458152b7b891978d42d79d8292f4558829ff
+
+tabs_hide:        
+- Calculate
+- Report
+
